@@ -1,16 +1,112 @@
-## Hi there 👋
+# مرحبًا 👋 أنا Al-Layth (malsalimi)
 
-<!--
-**malsalimi/malsalimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+أنا طالب **أمن سيبراني** من **جمهورية اليمن** — أهلاً بك في حسابي على GitHub!  
+أشارك هنا مشاريعي البرمجية، تجاربي في الأمن السيبراني، وتحليل الملفات وبناء التطبيقات.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👤 نبذة عني
+- الاسم: **Al-Layth**
+- اسم المستخدم: **malsalimi**
+- التخصص: **Cybersecurity Student**
+- الدولة: **Republic of Yemen**
+- البريد الإلكتروني: **alsalime711@gmail.com**
+
+---
+
+## 🌐 حساباتي الرسمية
+- 📸 Instagram:  
+  https://www.instagram.com/8m4.g
+
+- 📘 Facebook:  
+  https://www.facebook.com/share/1DZrP9su8P/
+
+- 💬 WhatsApp:  
+  https://wa.me/qr/JDU3LKC5TMVEO1
+
+---
+
+## 🧠 المهارات والتقنيات
+- **لغات البرمجة:**  
+  Dart (Flutter)، C#، Python
+
+- **الأطر والتقنيات:**  
+  Flutter، Firebase، Gradle
+
+- **المجالات:**  
+  - الأمن السيبراني  
+  - تشفير وفك تشفير الملفات  
+  - استخراج البيانات الوصفية (Metadata)  
+  - تحليل الملفات والبحث الرقمي  
+  - تطوير تطبيقات Android
+
+---
+
+## 📂 أبرز المشاريع
+### 🔐 ENCREYPTION-Project
+تطبيق لتشفير وفك تشفير البيانات باستخدام عدة خوارزميات  
+**Language:** C#
+
+---
+
+### 📚 student-data-manager
+تطبيق Flutter لإدارة بيانات الطلاب  
+يدعم:
+- إضافة  
+- تعديل  
+- حذف  
+- عرض البيانات  
+مع تخزين دائم ومنظم  
+**Language:** Dart (Flutter)
+
+---
+
+### 🧬 metadata_project
+مشروع لاستخراج البيانات الوصفية من الملفات  
+**Language:** Python
+
+---
+
+### 🔑 ACCUNTE-End-NotBad
+مشروع C# متكامل يضم:
+- نظام إدارة حسابات آمن  
+- تشفير كلمات المرور  
+- إدارة المستخدمين والملفات  
+- مفكرة ذكية  
+**Language:** C#
+
+---
+
+### 🌐 my-cv-site
+موقع السيرة الذاتية الخاصة بي  
+نشاط مستمر وتحديثات منتظمة
+
+---
+
+## 📈 النشاط
+- 🔥 **110 مساهمة (Contributions)** خلال آخر سنة
+- التزام مستمر بالتطوير والتعلم وبناء أدوات مفيدة
+
+---
+
+## 🤝 التعاون والتواصل
+إذا رغبت بـ:
+- التعاون في مشروع
+- المساهمة في أحد المستودعات
+- اقتراح فكرة أو تحسين
+
+📧 راسلني عبر البريد: **alsalime711@gmail.com**  
+أو عبر حساباتي الاجتماعية أعلاه
+
+---
+
+## ⭐ ملاحظة
+إذا أعجبك أي مشروع:
+- ضع ⭐ Star
+- شاركه مع غيرك
+- افتح Issue أو Pull Request
+
+---
+
+**شكرًا لزيارتك ملفي الشخصي 🤍**  
+معًا نبني أدوات أقوى وأكثر أمانًا.
