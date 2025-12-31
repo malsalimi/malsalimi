@@ -6,9 +6,9 @@
 ---
 
 ## 👤 نبذة عني
-- الاسم: **Al-Layth**
+- الاسم: **محمد جمال الدين السالمي**
 - اسم المستخدم: **Mohammed_alsalimi**
-- التخصص: **Cybersecurity Student**
+- التخصص: **Cybersecurity**
 - الدولة: **Republic of Yemen**
 - البريد الإلكتروني: **alsalime711@gmail.com**
 
