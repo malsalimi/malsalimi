@@ -1,6 +1,6 @@
 # <p align="center">مرحبًا بك في عالمي الرقمي! 👋</p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cairo&size=24&duration=3000&pause=1000&color=12D640&center=true&vCenter=true&width=700&lines=%D9%85%D8%AE%D8%AA%D8%B5%20%D8%A3%D9%85%D9%86%20%D8%B3%D9%8A%D8%A8%D8%B1%D8%A7%D9%86%D9%8I%20%D9%88%D8%A7%D8%AE%D8%AA%D8%A8%D8%A7%D8%B1%20%D8%A7%D9%84%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82%3B%D9%85%D8%B7%D9%88%D8%B1%20%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%D8%A7%D8%AA%20%D9%85%D9%88%D8%A8%D8%A7%D9%8A%D9%84%20%D8%A8%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85%20Flutter%3B%D9%85%D8%B5%D9%85%D9%85%20%D9%88%D9%85%D8%B7%D9%88%D8%B1%20%D9%85%D9%88%D8%A7%D9%82%D8%B9%20%D9%88%D9%8A%D8%A8%20%D8%A7%D8%AD%D8%AA%D8%B1%D8%A7%D9%81%D9%8A%D8%A9" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Cairo&size=24&duration=3000&pause=1000&color=12D640&center=true&vCenter=true&width=700&lines=%D9%85%D8%AE%D8%AA%D8%B5%20%D8%A3%D9%85%D9%86%20%D8%B3%D9%8A%D8%A8%D8%B1%D8%A7%D9%86%D9%8I%20%D9%88%D8%A7%D8%AE%D8%AA%D8%A8%D8%A7%D8%B1%20%D8%A7%D9%84%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%8ق;%D9%85%D8%B7%D9%88%D8%B1%20%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%D8%A7%D8%AA%20%D9%85%D9%88%D8%A8%D8%A7%D9%8A%D9%84%20%D8%A8%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85%20Flutter%3B%D9%85%D8%B5%D9%85%D9%85%20%D9%88%D9%85%D8%B7%D9%88%D8%B1%20%D9%85%D9%88%D8%A7%D9%82%D8%B9%20%D9%88%D9%8A%D8%A8%20%D8%A7%D8%AD%D8%AA%D8%B1%D8%A7%D9%81%D9%8A%D8%A9" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 > أنا **محمد جمال الدين السالمي**، تقني ومختص أمن سيبراني ومطور برمجيات من **الجمهورية اليمنية**. شغوف بحماية الأنظمة والشبكات، وأعشق بناء أدوات وتطبيقات متكاملة تدمج بين الجانب البرمجي والأمني لتقديم تجربة رقمية آمنة وفعالة.
 
-* 🌐 **الموقع الشخصي للحقيبة البرمجية:** [Salimi Tech](https://salimi-tech.kesug.com/)
+* 🌐 **الموقع الشخصي للحقيبة البرمجية:** [Salimi Tech](https://salimi-tech.vercel.app/)
 * 💼 **الاهتمامات الحالية:** اختبار الاختراق الأخلاقي، إدارة وتأمين شبكات MikroTik، وتطوير تطبيقات الهواتف الذكية والويب.
 * ✉️ **البريد الإلكتروني للاتصال المباشر:** [salimitech2025@gmail.com](mailto:salimitech2025@gmail.com)
 
@@ -66,21 +66,19 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top" align="center">
-      <a href="https://salimi-tech.kesug.com" target="_blank">
-        <img src="portfolio-site1.jpg" width="100%" alt="Personal Website" />
+      <a href="https://salimi-tech.vercel.app" target="_blank">
+        <img src="my_site-salimitech.png" width="100%" alt="Personal Website" />
       </a>
       <br/>
-      <b>💻 <a href="https://github.com/malsalimi/salimi-tech">Salimi Tech Portfolio</a></b>
+      <b>💻 Salimi Tech Portfolio</b>
       <br/>
-      🌐 <b><a href="https://salimi-tech.kesug.com" target="_blank">زيارة الموقع المباشر</a></b>
-      <p align="right">الموقع الرسمي الشخصي وثنائي اللغة لاستعراض مهاراتي التقنية، ومشاريعي البرمجية، وشهاداتي المهنية.</p>
+      🌐 <b><a href="https://salimi-tech.vercel.app" target="_blank">زيارة الموقع الرئيسي</a></b>
+      <p align="right">الموقع الرسمي الشخصي وثنائي اللغة لاستعراض المهارات التقنية، ومشاريعي البرمجية، وشهاداتي المهنية.</p>
     </td>
     <td width="50%" valign="top" align="center">
-      <a href="https://github.com/malsalimi/tofan-alaksa">
-        <img src="tofan-alaksa.jpg" width="100%" alt="Tofan Al-Aqsa" />
-      </a>
+      <img src="tofan-alaksa.jpg" width="100%" alt="Tofan Al-Aqsa" />
       <br/>
-      <b>🇵🇸 <a href="https://github.com/malsalimi/tofan-alaksa">Tofan Al-Aqsa Platform</a></b>
+      <b>🇵🇸 Tofan Al-Aqsa Platform</b>
       <br/>
       🚧 <i>قيد التطوير والترقية المستمرة</i>
       <p align="right">منصة ويب تفاعلية شاملة تقدم وثائق وخرائط تاريخية وأرشيفاً متكاملاً للتوعية بالقضية الفلسطينية.</p>
@@ -92,7 +90,7 @@
         <img src="salimi-store.jpg" width="100%" alt="Salimi Store" />
       </a>
       <br/>
-      <b>🛒 <a href="https://github.com/malsalimi/salimi-store">متجر Salimi Store الرقمي</a></b>
+      <b>🛒 متجر Salimi Store الرقمي</b>
       <br/>
       🌐 <b><a href="https://salimi-store.vercel.app/" target="_blank">زيارة الموقع المباشر</a></b>
       <p align="right">منصة ويب متطورة كمتجر إلكتروني متكامل لعرض وتحميل التطبيقات والالتحاق بالدورات التدريبية التقنية.</p>
@@ -102,7 +100,7 @@
         <img src="grand-sofra.jpg" width="100%" alt="Grand Sofra" />
       </a>
       <br/>
-      <b>🍽️ <a href="https://github.com/malsalimi/grand-sofra">Grand Sofra Restaurant Site</a></b>
+      <b>🍽️ Grand Sofra Restaurant Site</b>
       <br/>
       🌐 <b><a href="https://grand-sofra-restaurant.vercel.app/" target="_blank">زيارة الموقع المباشر</a></b>
       <p align="right">موقع ويب تفاعلي لمطعم "جراند سفرة" يعرض قائمة المأكولات اليمنية التقليدية ونظام طلبات وحجز ذكي.</p>
@@ -114,7 +112,7 @@
         <img src="al-tazaj-restaurant.png" width="100%" alt="Al-Tazaj" />
       </a>
       <br/>
-      <b>🔥 <a href="https://github.com/malsalimi/al-tazaj-restaurant">Al-Tazaj Restaurant Website</a></b>
+      <b>🔥 Al-Tazaj Restaurant Website</b>
       <br/>
       🌐 <b><a href="https://al-tazaj-restaurant.vercel.app/" target="_blank">زيارة الموقع المباشر</a></b>
       <p align="right">موقع ويب للطلبات الفورية واستلام وتوصيل الوجبات وعرض الخصومات اليومية لمطعم ومخبازة الطازج.</p>
@@ -124,7 +122,7 @@
         <img src="eng-alqasem.jpg" width="100%" alt="Eng. Alqasem Portfolio" />
       </a>
       <br/>
-      <b>📊 <a href="https://github.com/malsalimi/eng-alqasem">Eng. Alqasem Salimi Site</a></b>
+      <b>📊 Eng. Alqasem Salimi Site</b>
       <br/>
       🌐 <b><a href="https://eng-alqasem-alsalemi.vercel.app/" target="_blank">زيارة الموقع المباشر</a></b>
       <p align="right">موقع ويب شخصي للمهندس القاسم السالمي كواجهة تفاعلية لعرض مسيرته وإنجازاته في تحليل البيانات والتسويق.</p>
@@ -136,7 +134,7 @@
         <img src="dr-alabbas.jpg" width="100%" alt="Dr. Alabbas Clinic" />
       </a>
       <br/>
-      <b>🦷 <a href="https://github.com/malsalimi/dr-alabbas">Dr. Alabbas Salimi Clinic</a></b>
+      <b>🦷 Dr. Alabbas Salimi Clinic</b>
       <br/>
       🌐 <b><a href="https://dr-alabbas.vercel.app/" target="_blank">زيارة الموقع المباشر</a></b>
       <p align="right">الموقع الرسمي للدكتور العباس السالمي بالرياض لعرض حالات العلاج وتقييمات المرضى.</p>
