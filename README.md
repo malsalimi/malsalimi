@@ -1,6 +1,6 @@
 # <p align="center">مرحبًا بك في عالمي الرقمي! 👋</p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cairo&size=24&duration=3000&pause=1000&color=12D640&center=true&vCenter=true&width=700&lines=%D9%85%D8%AE%D8%AA%D8%B5+%D8%A3%D9%85%D9%86+%D8%B3%D9%8A%D8%A8%D8%B1%D8%A7%D9%86%D9%8A+%D9%88%D8%A7%D8%AE%D8%AA%D8%A8%D8%A7%D8%B1+%D8%A7%D9%84%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82;%D9%85%D8%B7%D9%88%D8%B1+%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%D8%A7%D8%AA+%D9%85%D9%88%D8%A8%D8%A7%D9%8A%D9%84+%D8%A8%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85+Flutter;%D9%85%D8%B5%D9%85%D9%85+%D9%88%D9%85%D8%B7%D9%88%D8%B1+%D9%85%D9%88%D8%A7%D9%82%D8%B9+%D9%88%D9%8A%D8%A8+%D8%A7%D8%AD%D8%AA%D8%B1%D8%A7%D9%81%D9%8A%D8%A9" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Cairo&size=24&duration=3000&pause=1000&color=12D640&center=true&vCenter=true&width=700&lines=%D9%85%D8%AE%D8%AA%D8%B5+%D8%A3%D9%85%D9%86+%D8%B3%D9%8A%D8%A8%D8%B1%D8%A7%D9%86%D9%8A+%D9%8...%D8%A7%D8%AE%D8%AA%D8%A8%D8%A7%D8%B1+%D8%A7%D9%84%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%8ق;%D9%85%D8%B7%D9%88%D8%B1+%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%D8%A7%D8%AA+%D9%85%D9%88%D8%A8%D8%A7%D9%8A%D9%84+%D8%A8%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85+Flutter;%D9%85%D8%B5%D9%85%D9%85+%D9%8...%D9%85%D8%B7%D9%88%D8%B1+%D9%85%D9%88%D8%A7%D9%82%D8%B9+%D9%88%D9%8A%D8%A8+%D8%A7%D8%AD%D8%AA%D8%B1%D8%A7%D9%81%D9%8A%D8%A9" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -17,9 +17,9 @@
 
 > أنا **محمد جمال الدين السالمي**، تقني ومختص أمن سيبراني ومطور برمجيات من **الجمهورية اليمنية**. شغوف بحماية الأنظمة والشبكات، وأعشق بناء أدوات وتطبيقات متكاملة تدمج بين الجانب البرمجي والأمني لتقديم تجربة رقمية آمنة وفعالة.
 
-* 🌐 **الموقع الشخصي:** [Salimi Tech](https://salimi-tech.kesug.com/)
-* 💼 **الاهتمامات الحالية:** اختبار الاختراق الأخلاقي، إدارة شبكات MikroTik، وتطوير تطبيقات الهواتف الذكية.
-* ✉️ **البريد الإلكتروني:** [salimitech2025@gmail.com](mailto:salimitech2025@gmail.com) أو [alsalime711@gmail.com](mailto:alsalime711@gmail.com)
+* 🌐 **الموقع الشخصي للحقيبة البرمجية:** [Salimi Tech](https://salimi-tech.vercel.app//)
+* 💼 **الاهتمامات الحالية:** اختبار الاختراق الأخلاقي، إدارة وتأمين شبكات MikroTik، وتطوير تطبيقات الهواتف الذكية والويب.
+* ✉️ **البريد الإلكتروني للاتصال المباشر:** [salimitech2025@gmail.com](mailto:salimitech2025@gmail.com)
 
 ---
 
@@ -42,6 +42,7 @@
       <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" /><br/>
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /><br/>
       <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" />
     </td>
     <td align="center" width="33%">
@@ -58,27 +59,62 @@
 
 ---
 
-## 📂 أبرز المشاريع المفتوحة (Featured Projects)
+## 📂 معرض المشاريع الكامل (Projects Portfolio)
 
-### 🔐 [ENCRYPTION-Project](https://github.com/malsalimi/ENCREYPTION-Project)
-> برنامج مكتبي متقدم لتشفير وفك تشفير الرسائل والملفات باستخدام خوارزميات أمنية معيارية قوية مثل **AES-256** و **Blowfish** لتوفير أقصى درجات السرية.
-> * **التقنيات المستخدمة:** C#, Cryptography APIs.
+### 🛡️ أولاً: مشاريع الأمن السيبراني والحماية (Cybersecurity Tools)
 
-### 📚 [student-data-manager](https://github.com/malsalimi/student-data-manager)
-> تطبيق إدارة بيانات الطلاب المطور باستخدام إطار العمل **Flutter**، يمنح المؤسسات التعليمية نظاماً متكاملاً لإدارة وتخزين وعرض السجلات بشكل منظم وتفاعلي.
-> * **التقنيات المستخدمة:** Dart, Flutter, SQLite/Hive.
+* **[Trust Me (Link & File Scanner App)](https://github.com/malsalimi/link-scanner)**
+  > تطبيق حماية استباقي للموبايل يقوم بفحص عميق للروابط والملفات المرفوعة لكشف الفيروسات وتجنب التصيد الإلكتروني عبر دمج وتفعيل **VirusTotal API** و **Google Safe Browsing API**.
+  > * **التقنيات:** Dart, Flutter.
+* **[Text & Message Encryption System](https://github.com/malsalimi/ENCREYPTION-Project)**
+  > نظام تشفير وفك تشفير الرسائل الحساسة والملفات النصية في الوقت الفعلي يدعم خوارزميات أمنية قوية مثل **AES-256** و **RSA** و **Blowfish** مع دعم خاصية التدمير الذاتي للنصوص والرسائل.
+  > * **التقنيات:** C#, Windows Forms / Web Client.
+* **[Metadata Project](https://github.com/malsalimi/metadata_project)**
+  > مشروع جنائي رقمي مخصص لاستخراج وفحص البيانات الوصفية (Metadata) المخفية داخل الملفات والصور لكشف بيانات الكاميرات، والمواقع الجغرافية وتواريخ التعديل.
+  > * **التقنيات:** Python, Exif analysis tools.
+* **[ACCUNTE-End-NotBad](https://github.com/malsalimi/ACCUNTE-End-NotBad)**
+  > نظام متكامل آمن لإدارة المستخدمين وحسابات كلمات المرور المشفرة وإدارة الملفات محلياً بالإضافة إلى مفكرة ذكية آمنة.
+  > * **التقنيات:** C#, SQLite.
 
-### 🧬 [metadata_project](https://github.com/malsalimi/metadata_project)
-> أداة مخصصة للفحص الجنائي الرقمي والبحث الأمني، تقوم باستخراج وفحص البيانات الوصفية (Metadata) المخفية داخل الملفات والصور لكشف التفاصيل الجغرافية وتواريخ الإنشاء والمعدات المستخدمة.
-> * **التقنيات المستخدمة:** Python, PIL, ExifTool.
+---
 
-### 🔑 [ACCUNTE-End-NotBad](https://github.com/malsalimi/ACCUNTE-End-NotBad)
-> مشروع نظام حماية متكامل لإدارة الحسابات وكلمات المرور المشفرة محلياً، ويشمل لوحة تحكم ذكية لإدارة الملفات والمفكرّات الآمنة.
-> * **التقنيات المستخدمة:** C#, Local Encryption databases.
+### 📱 ثانياً: تطبيقات الموبايل والويندوز (Mobile & Desktop Apps)
 
-### 🌐 [my-cv-site](https://github.com/malsalimi/salimi-tech)
-> الكود المصدري لموقعي الشخصي التفاعلي ثنائي اللغة والمهيأ بالكامل لمعايير محركات البحث (SEO).
-> * **التقنيات المستخدمة:** HTML5, CSS3, Vanilla JS, Bootstrap.
+* **[student-data-manager](https://github.com/malsalimi/student-data-manager)**
+  > تطبيق موبايل متكامل يسمح بإدخال وحفظ ومعالجة بيانات الطلاب إدارياً وأكاديمياً وتخزينها بشكل منظم محلياً مع إمكانية التعديل والبحث الفوري.
+  > * **التقنيات:** Dart, Flutter.
+* **[File Processing & Analysis App](https://github.com/malsalimi/file-processor)**
+  > تطبيق هاتف ذكي متعدد الاستخدامات يوفر أدوات تحويل الصيغ، ضغط الملفات، دمج مستندات PDF واستخراج النصوص من الصور (OCR).
+  > * **التقنيات:** Dart, Flutter, OCR Libraries.
+* **[Student Data Management System (Windows Edition)](https://github.com/malsalimi/student-system)**
+  > برنامج مكتبي متكامل لإدارة شؤون الطلاب للمدارس والمعاهد يغطي السجلات الشخصية، الشؤون الأكاديمية والمالية مع تصدير تقارير إحصائية.
+  > * **التقنيات:** C#, SQL Server.
+
+---
+
+### 🌐 ثالثاً: مواقع وتطبيقات الويب (Websites & Web Apps)
+
+* **[my-cv-site](https://github.com/malsalimi/salimi-tech)**
+  > الكود المصدري لموقعي الشخصي المطور (Salimi Tech) ثنائي اللغة (عربي / إنجليزي) والمهيأ بالكامل لمحركات البحث والأرشفة (SEO).
+  > * **التقنيات:** HTML5, CSS3, Vanilla JS, Bootstrap.
+* **[Tofan Al-Aqsa Platform](https://github.com/malsalimi/tofan-alaksa)**
+  > منصة ويب تفاعلية شاملة توفر أرشيفاً للوثائق والخرائط التاريخية والأدبية لنشر الوعي بالقضية الفلسطينية.
+  > * **التقنيات:** HTML5, CSS3, JS.
+* **[Salimi Store](https://github.com/malsalimi/salimi-store)**
+  > منصة ويب متطورة متخصصة كمتجر رقمي لعرض وتحميل التطبيقات والالتحاق بالدورات التدريبية التقنية.
+  > * **التقنيات:** HTML5, CSS3, JS, PHP.
+* **[Grand Sofra Restaurant Website](https://github.com/malsalimi/grand-sofra)**
+  > موقع ويب تفاعلي لمطعم "جراند سفرة" يعرض قائمة الطعام التفاعلية ونظام إدارة الطلبات عبر الإنترنت.
+  > * **التقنيات:** HTML5, CSS3, Vanilla JS, PHP.
+* **[Al-Tazaj Restaurant & Bakery Website](https://github.com/malsalimi/al-tazaj-restaurant)**
+  > موقع طلبات واستلام إلكتروني مخصص لـ "مطعم ومخبازة الطازج" لعرض الوجبات والعروض اليومية.
+  > * **التقنيات:** HTML5, CSS3, JS.
+* **[Eng. Alqasem Salimi Portfolio](https://github.com/malsalimi/eng-alqasem)**
+  > موقع ويب شخصي (Portfolio) للمهندس القاسم السالمي كواجهة تفاعلية لعرض إنجازات تحليل السوق والبيانات.
+  > * **التقنيات:** HTML5, CSS3, JS.
+* **[Dr. Alabbas Salimi Dental Clinic](https://github.com/malsalimi/dr-alabbas)**
+  > العيادة الرقمية للدكتور العباس السالمي لعرض الخدمات الطبية وحالات معالجة الأسنان وتقييمات المرضى.
+  > * **التقنيات:** HTML5, CSS3, JS.
 
 ---
 
