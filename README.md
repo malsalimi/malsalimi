@@ -1,6 +1,6 @@
 # <p align="center">مرحبًا بك في عالمي الرقمي! 👋</p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cairo&size=24&duration=3000&pause=1000&color=12D640&center=true&vCenter=true&width=700&lines=%D9%85%D8%AE%D8%AA%D8%B5+%D8%A3%D9%85%D9%86+%D8%B3%D9%8A%D8%A8%D8%B1%D8%A7%D9%86%D9%8A+%D9%8...%D8%A7%D8%AE%D8%AA%D8%A8%D8%A7%D8%B1+%D8%A7%D9%84%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%8ق;%D9%85%D8%B7%D9%88%D8%B1+%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%D8%A7%D8%AA+%D9%85%D9%88%D8%A8%D8%A7%D9%8A%D9%84+%D8%A8%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85+Flutter;%D9%85%D8%B5%D9%85%D9%85+%D9%8...%D9%85%D8%B7%D9%88%D8%B1+%D9%85%D9%88%D8%A7%D9%82%D8%B9+%D9%88%D9%8A%D8%A8+%D8%A7%D8%AD%D8%AA%D8%B1%D8%A7%D9%81%D9%8A%D8%A9" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Cairo&size=24&duration=3000&pause=1000&color=12D640&center=true&vCenter=true&width=700&lines=%D9%85%D8%AE%D8%AA%D8%B5+%D8%A3%D9%85%D9%86+%D8%B3%D9%8A%D8%A8%D8%B1%D8%A7%D9%86%D9%8A+%D9%88%D8%A7%D8%AE%D8%AA%D8%A8%D8%A7%D8%B1+%D8%A7%D9%84%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82;%D9%85%D8%B7%D9%88%D8%B1+%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%D8%A7%D8%AA+%D9%85%D9%88%D8%A8%D8%A7%D9%8A%D9%84+%D8%A8%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85+Flutter;%D9%85%D8%B5%D9%85%D9%85+%D9%88%D9%85%D8%B7%D9%88%D8%B1+%D9%85%D9%88%D8%A7%D9%82%D8%B9+%D9%88%D9%8A%D8%A8+%D8%A7%D8%AD%D8%AA%D8%B1%D8%A7%D9%81%D9%8A%D8%A9" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 > أنا **محمد جمال الدين السالمي**، تقني ومختص أمن سيبراني ومطور برمجيات من **الجمهورية اليمنية**. شغوف بحماية الأنظمة والشبكات، وأعشق بناء أدوات وتطبيقات متكاملة تدمج بين الجانب البرمجي والأمني لتقديم تجربة رقمية آمنة وفعالة.
 
-* 🌐 **الموقع الشخصي للحقيبة البرمجية:** [Salimi Tech](https://salimi-tech.vercel.app//)
+* 🌐 **الموقع الشخصي للحقيبة البرمجية:** [Salimi Tech](https://salimi-tech.vercel.app/)
 * 💼 **الاهتمامات الحالية:** اختبار الاختراق الأخلاقي، إدارة وتأمين شبكات MikroTik، وتطوير تطبيقات الهواتف الذكية والويب.
 * ✉️ **البريد الإلكتروني للاتصال المباشر:** [salimitech2025@gmail.com](mailto:salimitech2025@gmail.com)
 
