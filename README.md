@@ -1,6 +1,6 @@
 # <p align="center">مرحبًا بك في عالمي الرقمي! 👋</p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cairo&size=24&duration=3000&pause=1000&color=12D640&center=true&vCenter=true&width=700&lines=%D9%85%D8%AE%D8%AA%D8%B5%20%D8%A3%D9%85%D9%86%20%D8%B3%D9%8A%D8%A8%D8%B1%D8%A7%D9%86%D9%8A%20%D9%88%D8%A7%D8%AE%D8%AA%D8%A8%D8%A7%D8%B1%20%D8%A7%D9%84%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82%3B%D9%85%D8%B7%D9%88%D8%B1%20%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%D8%A7%D8%AA%20%D9%85%D9%88%D8%A8%D8%A7%D9%8A%D9%84%20%D8%A8%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85%20Flutter%3B%D9%85%D8%B5%D9%85%D9%85%20%D9%88%D9%85%D8%B7%D9%88%D8%B1%20%D9%85%D9%88%D8%A7%D9%82%D8%B9%20%D9%88%D9%8A%D8%A8%20%D8%A7%D8%AD%D8%AA%D8%B1%D8%A7%D9%81%D9%8A%D8%A9" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Cairo&size=24&duration=3000&pause=1000&color=12D640&center=true&vCenter=true&width=700&lines=%D9%85%D8%AE%D8%AA%D8%B5%20%D8%A3%D9%85%D9%86%20%D8%B3%D9%8A%D8%A8%D8%B1%D8%A7%D9%86%D9%8I%20%D9%88%D8%A7%D8%AE%D8%AA%D8%A8%D8%A7%D8%B1%20%D8%A7%D9%84%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82%3B%D9%85%D8%B7%D9%88%D8%B1%20%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%D8%A7%D8%AA%20%D9%85%D9%88%D8%A8%D8%A7%D9%8A%D9%84%20%D8%A8%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85%20Flutter%3B%D9%85%D8%B5%D9%85%D9%85%20%D9%88%D9%85%D8%B7%D9%88%D8%B1%20%D9%85%D9%88%D8%A7%D9%82%D8%B9%20%D9%88%D9%8A%D8%A8%20%D8%A7%D8%AD%D8%AA%D8%B1%D8%A7%D9%81%D9%8A%D8%A9" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -67,7 +67,7 @@
   <tr>
     <td width="50%" valign="top" align="center">
       <a href="https://github.com/malsalimi/link-scanner">
-        <img src="https://raw.githubusercontent.com/malsalimi/salimi-tech/main/assets/img/project/link-scanner.jpg" width="100%" alt="Trust Me" />
+        <img src="link-scanner.jpg" width="100%" alt="Trust Me" />
       </a>
       <br/>
       <b>🛡️ <a href="https://github.com/malsalimi/link-scanner">Trust Me (Link & File Scanner)</a></b>
@@ -75,7 +75,7 @@
     </td>
     <td width="50%" valign="top" align="center">
       <a href="https://github.com/malsalimi/ENCREYPTION-Project">
-        <img src="https://raw.githubusercontent.com/malsalimi/salimi-tech/main/assets/img/project/encryption-system.jpg" width="100%" alt="Encryption System" />
+        <img src="encryption-system.jpg" width="100%" alt="Encryption System" />
       </a>
       <br/>
       <b>🔐 <a href="https://github.com/malsalimi/ENCREYPTION-Project">Text & Message Encryption</a></b>
@@ -92,7 +92,7 @@
   <tr>
     <td width="50%" valign="top" align="center">
       <a href="https://github.com/malsalimi/student-data-manager">
-        <img src="https://raw.githubusercontent.com/malsalimi/salimi-tech/main/assets/img/project/student-system.jpg" width="100%" alt="Student Manager" />
+        <img src="student-system.jpg" width="100%" alt="Student Manager" />
       </a>
       <br/>
       <b>📚 <a href="https://github.com/malsalimi/student-data-manager">student-data-manager</a></b>
@@ -100,7 +100,7 @@
     </td>
     <td width="50%" valign="top" align="center">
       <a href="https://github.com/malsalimi/file-processor">
-        <img src="https://raw.githubusercontent.com/malsalimi/salimi-tech/main/assets/img/project/file-processor.jpg" width="100%" alt="File Processor" />
+        <img src="file-processor.jpg" width="100%" alt="File Processor" />
       </a>
       <br/>
       <b>🔄 <a href="https://github.com/malsalimi/file-processor">File Processing & Analysis</a></b>
@@ -117,7 +117,7 @@
   <tr>
     <td width="50%" valign="top" align="center">
       <a href="https://salimi-tech.kesug.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/malsalimi/salimi-tech/main/assets/img/project/portfolio-site1.jpg" width="100%" alt="Personal Website" />
+        <img src="portfolio-site1.jpg" width="100%" alt="Personal Website" />
       </a>
       <br/>
       <b>💻 <a href="https://github.com/malsalimi/salimi-tech">Salimi Tech Portfolio</a></b>
@@ -127,7 +127,7 @@
     </td>
     <td width="50%" valign="top" align="center">
       <a href="https://github.com/malsalimi/tofan-alaksa">
-        <img src="https://raw.githubusercontent.com/malsalimi/salimi-tech/main/assets/img/project/tofan-alaksa.jpg" width="100%" alt="Tofan Al-Aqsa" />
+        <img src="tofan-alaksa.jpg" width="100%" alt="Tofan Al-Aqsa" />
       </a>
       <br/>
       <b>🇵🇸 <a href="https://github.com/malsalimi/tofan-alaksa">Tofan Al-Aqsa Platform</a></b>
@@ -139,7 +139,7 @@
   <tr>
     <td width="50%" valign="top" align="center">
       <a href="https://salimi-store.vercel.app/" target="_blank">
-        <img src="https://raw.githubusercontent.com/malsalimi/salimi-tech/main/assets/img/project/salimi-store.jpg" width="100%" alt="Salimi Store" />
+        <img src="salimi-store.jpg" width="100%" alt="Salimi Store" />
       </a>
       <br/>
       <b>🛒 <a href="https://github.com/malsalimi/salimi-store">متجر Salimi Store الرقمي</a></b>
@@ -149,7 +149,7 @@
     </td>
     <td width="50%" valign="top" align="center">
       <a href="https://grand-sofra-restaurant.vercel.app/" target="_blank">
-        <img src="https://raw.githubusercontent.com/malsalimi/salimi-tech/main/assets/img/project/grand-sofra.jpg" width="100%" alt="Grand Sofra" />
+        <img src="grand-sofra.jpg" width="100%" alt="Grand Sofra" />
       </a>
       <br/>
       <b>🍽️ <a href="https://github.com/malsalimi/grand-sofra">Grand Sofra Restaurant Site</a></b>
@@ -161,7 +161,7 @@
   <tr>
     <td width="50%" valign="top" align="center">
       <a href="https://al-tazaj-restaurant.vercel.app/" target="_blank">
-        <img src="https://raw.githubusercontent.com/malsalimi/salimi-tech/main/assets/img/project/%D9%85%D8%B7%D8%B9%D9%85%20%D9%88%D9%85%D8%AE%D8%A8%D8%A7%D8%B2%D8%A9%20%D8%A7%D9%84%D8%B7%D8%A7%D8%B2%D8%AC.png" width="100%" alt="Al-Tazaj" />
+        <img src="%D9%85%D8%B7%D8%B9%D9%85%20%D9%88%D9%85%D8%AE%D8%A8%D8%A7%D8%B2%D8%A9%20%D8%B7%D8%A7%D8%B2%D8%AC%D8%A9.png" width="100%" alt="Al-Tazaj" />
       </a>
       <br/>
       <b>🔥 <a href="https://github.com/malsalimi/al-tazaj-restaurant">Al-Tazaj Restaurant Website</a></b>
@@ -171,7 +171,7 @@
     </td>
     <td width="50%" valign="top" align="center">
       <a href="https://eng-alqasem-alsalemi.vercel.app/" target="_blank">
-        <img src="https://raw.githubusercontent.com/malsalimi/salimi-tech/main/assets/img/project/eng-alqasem.jpg" width="100%" alt="Eng. Alqasem Portfolio" />
+        <img src="eng-alqasem.jpg" width="100%" alt="Eng. Alqasem Portfolio" />
       </a>
       <br/>
       <b>📊 <a href="https://github.com/malsalimi/eng-alqasem">Eng. Alqasem Salimi Site</a></b>
@@ -183,7 +183,7 @@
   <tr>
     <td width="50%" valign="top" align="center">
       <a href="https://dr-alabbas.vercel.app/" target="_blank">
-        <img src="https://raw.githubusercontent.com/malsalimi/salimi-tech/main/assets/img/project/dr-alabbas.jpg" width="100%" alt="Dr. Alabbas Clinic" />
+        <img src="dr-alabbas.jpg" width="100%" alt="Dr. Alabbas Clinic" />
       </a>
       <br/>
       <b>🦷 <a href="https://github.com/malsalimi/dr-alabbas">Dr. Alabbas Salimi Clinic</a></b>
