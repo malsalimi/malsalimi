@@ -61,57 +61,7 @@
 
 ## 📂 معرض المشاريع الكامل (Projects Portfolio)
 
-### 🛡️ أولاً: مشاريع الأمن السيبراني والحماية (Cybersecurity Tools)
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top" align="center">
-      <a href="https://github.com/malsalimi/link-scanner">
-        <img src="link-scanner.jpg" width="100%" alt="Trust Me" />
-      </a>
-      <br/>
-      <b>🛡️ <a href="https://github.com/malsalimi/link-scanner">Trust Me (Link & File Scanner)</a></b>
-      <p align="right">تطبيق حماية للموبايل يقوم بفحص عميق للروابط والملفات المرفوعة لكشف البرمجيات الخبيثة والتصيد بالتكامل مع VirusTotal API.</p>
-    </td>
-    <td width="50%" valign="top" align="center">
-      <a href="https://github.com/malsalimi/ENCREYPTION-Project">
-        <img src="encryption-system.jpg" width="100%" alt="Encryption System" />
-      </a>
-      <br/>
-      <b>🔐 <a href="https://github.com/malsalimi/ENCREYPTION-Project">Text & Message Encryption</a></b>
-      <p align="right">نظام تشفير الرسائل والملفات يدعم خوارزميات AES-256 و RSA و Blowfish مع خاصية التدمير الذاتي للنصوص والرسائل.</p>
-    </td>
-  </tr>
-</table>
-
----
-
-### 📱 ثانياً: تطبيقات الموبايل والويندوز (Mobile & Desktop Apps)
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top" align="center">
-      <a href="https://github.com/malsalimi/student-data-manager">
-        <img src="student-system.jpg" width="100%" alt="Student Manager" />
-      </a>
-      <br/>
-      <b>📚 <a href="https://github.com/malsalimi/student-data-manager">student-data-manager</a></b>
-      <p align="right">تطبيق مكتبي متكامل (إصدار الويندوز) لإدارة شؤون الطلاب أكاديمياً ومالياً وسلوكياً مع تصدير تقارير إحصائية فورية.</p>
-    </td>
-    <td width="50%" valign="top" align="center">
-      <a href="https://github.com/malsalimi/file-processor">
-        <img src="file-processor.jpg" width="100%" alt="File Processor" />
-      </a>
-      <br/>
-      <b>🔄 <a href="https://github.com/malsalimi/file-processor">File Processing & Analysis</a></b>
-      <p align="right">تطبيق هاتف ذكي متعدد المهام لضغط، دمج، تحويل الملفات، واستخراج النصوص الفوري من الصور باستخدام تقنية OCR.</p>
-    </td>
-  </tr>
-</table>
-
----
-
-### 🌐 ثالثاً: مواقع وتطبيقات الويب (Websites & Web Apps)
+### 🌐 أولاً: مواقع وتطبيقات الويب (Websites & Web Apps)
 
 <table width="100%">
   <tr>
@@ -193,6 +143,56 @@
     </td>
     <td width="50%" valign="top" align="center">
       <!-- مساحة فارغة لموازنة التصميم الشبكي للمشروع الأخير -->
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📱 ثانياً: تطبيقات الموبايل والويندوز (Mobile & Desktop Apps)
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <a href="https://github.com/malsalimi/student-data-manager">
+        <img src="student-system.jpg" width="100%" alt="Student Manager" />
+      </a>
+      <br/>
+      <b>📚 <a href="https://github.com/malsalimi/student-data-manager">student-data-manager</a></b>
+      <p align="right">تطبيق مكتبي متكامل (إصدار الويندوز) لإدارة شؤون الطلاب أكاديمياً ومالياً وسلوكياً مع تصدير تقارير إحصائية فورية.</p>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <a href="https://github.com/malsalimi/file-processor">
+        <img src="file-processor.jpg" width="100%" alt="File Processor" />
+      </a>
+      <br/>
+      <b>🔄 <a href="https://github.com/malsalimi/file-processor">File Processing & Analysis</a></b>
+      <p align="right">تطبيق هاتف ذكي متعدد المهام لضغط، دمج، تحويل الملفات، واستخراج النصوص الفوري من الصور باستخدام تقنية OCR.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🛡️ ثالثاً: مشاريع الأمن السيبراني والحماية (Cybersecurity Tools)
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <a href="https://github.com/malsalimi/link-scanner">
+        <img src="link-scanner.jpg" width="100%" alt="Trust Me" />
+      </a>
+      <br/>
+      <b>🛡️ <a href="https://github.com/malsalimi/link-scanner">Trust Me (Link & File Scanner)</a></b>
+      <p align="right">تطبيق حماية للموبايل يقوم بفحص عميق للروابط والملفات المرفوعة لكشف البرمجيات الخبيثة والتصيد بالتكامل مع VirusTotal API.</p>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <a href="https://github.com/malsalimi/ENCREYPTION-Project">
+        <img src="encryption-system.jpg" width="100%" alt="Encryption System" />
+      </a>
+      <br/>
+      <b>🔐 <a href="https://github.com/malsalimi/ENCREYPTION-Project">Text & Message Encryption</a></b>
+      <p align="right">نظام تشفير الرسائل والملفات يدعم خوارزميات AES-256 و RSA و Blowfish مع خاصية التدمير الذاتي للنصوص والرسائل.</p>
     </td>
   </tr>
 </table>
