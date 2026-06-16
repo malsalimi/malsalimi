@@ -161,7 +161,7 @@
   <tr>
     <td width="50%" valign="top" align="center">
       <a href="https://al-tazaj-restaurant.vercel.app/" target="_blank">
-        <img src="%D9%85%D8%B7%D8%B9%D9%85%20%D9%88%D9%85%D8%AE%D8%A8%D8%A7%D8%B2%D8%A9%20%D8%B7%D8%A7%D8%B2%D8%AC%D8%A9.png" width="100%" alt="Al-Tazaj" />
+        <img src="al-tazaj-restaurant.png" width="100%" alt="Al-Tazaj" />
       </a>
       <br/>
       <b>🔥 <a href="https://github.com/malsalimi/al-tazaj-restaurant">Al-Tazaj Restaurant Website</a></b>
@@ -189,7 +189,7 @@
       <b>🦷 <a href="https://github.com/malsalimi/dr-alabbas">Dr. Alabbas Salimi Clinic</a></b>
       <br/>
       🌐 <b><a href="https://dr-alabbas.vercel.app/" target="_blank">زيارة الموقع المباشر</a></b>
-      <p align="right">الموقع الرسمي والعيادة الرقمية للدكتور العباس السالمي بالرياض لعرض حالات العلاج وتقييمات المرضى.</p>
+      <p align="right">الموقع الرسمي للدكتور العباس السالمي بالرياض لعرض حالات العلاج وتقييمات المرضى.</p>
     </td>
     <td width="50%" valign="top" align="center">
       <!-- مساحة فارغة لموازنة التصميم الشبكي للمشروع الأخير -->
