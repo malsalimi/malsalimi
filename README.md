@@ -1,6 +1,6 @@
 # <p align="center">مرحبًا بك في عالمي الرقمي! 👋</p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cairo&size=24&duration=3000&pause=1000&color=12D640&center=true&vCenter=true&width=700&lines=%D9%85%D8%AE%D8%AA%D8%B5+%D8%A3%D9%85%D9%86+%D8%B3%D9%8A%D8%A8%D8%B1%D8%A7%D9%86%D9%8A+%D9%88%D8%A7%D8%AE%D8%AA%D8%A8%D8%A7%D8%B1+%D8%A7%D9%84%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82;%D9%85%D8%B7%D9%88%D8%B1+%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%D8%A7%D8%AA+%D9%85%D9%88%D8%A8%D8%A7%D9%8A%D9%84+%D8%A8%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85+Flutter;%D9%85%D8%B5%D9%85%D9%85+%D9%88%D9%85%D8%B7%D9%88%D8%B1+%D9%85%D9%88%D8%A7%D9%82%D8%B9+%D9%88%D9%8A%D8%A8+%D8%A7%D8%AD%D8%AA%D8%B1%D8%A7%D9%81%D9%8A%D8%A9" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Cairo&size=24&duration=3000&pause=1000&color=12D640&center=true&vCenter=true&width=700&lines=%D9%85%D8%AE%D8%AA%D8%B5+%D8%A3%D9%85%D9%86+%D8%B3%D9%8A%D8%A8%D8%B1%D8%A7%D9%86%D9%8A+%D9%8...%D8%A7%D8%AE%D8%AA%D8%A8%D8%A7%D8%B1+%D8%A7%D9%84%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%8ق;%D9%85%D8%B7%D9%88%D8%B1+%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%D8%A7%D8%AA+%D9%85%D9%88%D8%A8%D8%A7%D9%8A%D9%84+%D8%A8%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85+Flutter;%D9%85%D8%B5%D9%85%D9%85+%D9%8...%D9%85%D8%B7%D9%88%D8%B1+%D9%85%D9%88%D8%A7%D9%82%D8%B9+%D9%88%D9%8A%D8%A8+%D8%A7%D8%AD%D8%AA%D8%B1%D8%A7%D9%81%D9%8A%D8%A9" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -63,58 +63,125 @@
 
 ### 🛡️ أولاً: مشاريع الأمن السيبراني والحماية (Cybersecurity Tools)
 
-* **[Trust Me (Link & File Scanner App)](https://github.com/malsalimi/link-scanner)**
-  > تطبيق حماية استباقي للموبايل يقوم بفحص عميق للروابط والملفات المرفوعة لكشف الفيروسات وتجنب التصيد الإلكتروني عبر دمج وتفعيل **VirusTotal API** و **Google Safe Browsing API**.
-  > * **التقنيات:** Dart, Flutter.
-* **[Text & Message Encryption System](https://github.com/malsalimi/ENCREYPTION-Project)**
-  > نظام تشفير وفك تشفير الرسائل الحساسة والملفات النصية في الوقت الفعلي يدعم خوارزميات أمنية قوية مثل **AES-256** و **RSA** و **Blowfish** مع دعم خاصية التدمير الذاتي للنصوص والرسائل.
-  > * **التقنيات:** C#, Windows Forms / Web Client.
-* **[Metadata Project](https://github.com/malsalimi/metadata_project)**
-  > مشروع جنائي رقمي مخصص لاستخراج وفحص البيانات الوصفية (Metadata) المخفية داخل الملفات والصور لكشف بيانات الكاميرات، والمواقع الجغرافية وتواريخ التعديل.
-  > * **التقنيات:** Python, Exif analysis tools.
-* **[ACCUNTE-End-NotBad](https://github.com/malsalimi/ACCUNTE-End-NotBad)**
-  > نظام متكامل آمن لإدارة المستخدمين وحسابات كلمات المرور المشفرة وإدارة الملفات محلياً بالإضافة إلى مفكرة ذكية آمنة.
-  > * **التقنيات:** C#, SQLite.
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <a href="https://github.com/malsalimi/link-scanner">
+        <img src="https://raw.githubusercontent.com/malsalimi/salimi-tech/main/assets/img/project/link-scanner.jpg" width="100%" alt="Trust Me" />
+      </a>
+      <br/>
+      <b>🛡️ <a href="https://github.com/malsalimi/link-scanner">Trust Me (Link & File Scanner)</a></b>
+      <p align="right">تطبيق حماية للموبايل يقوم بفحص عميق للروابط والملفات المرفوعة لكشف البرمجيات الخبيثة والتصيد بالتكامل مع VirusTotal API.</p>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <a href="https://github.com/malsalimi/ENCREYPTION-Project">
+        <img src="https://raw.githubusercontent.com/malsalimi/salimi-tech/main/assets/img/project/encryption-system.jpg" width="100%" alt="Encryption System" />
+      </a>
+      <br/>
+      <b>🔐 <a href="https://github.com/malsalimi/ENCREYPTION-Project">Text & Message Encryption</a></b>
+      <p align="right">نظام تشفير الرسائل والملفات يدعم خوارزميات AES-256 و RSA و Blowfish مع خاصية التدمير الذاتي للنصوص والرسائل.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 📱 ثانياً: تطبيقات الموبايل والويندوز (Mobile & Desktop Apps)
 
-* **[student-data-manager](https://github.com/malsalimi/student-data-manager)**
-  > تطبيق موبايل متكامل يسمح بإدخال وحفظ ومعالجة بيانات الطلاب إدارياً وأكاديمياً وتخزينها بشكل منظم محلياً مع إمكانية التعديل والبحث الفوري.
-  > * **التقنيات:** Dart, Flutter.
-* **[File Processing & Analysis App](https://github.com/malsalimi/file-processor)**
-  > تطبيق هاتف ذكي متعدد الاستخدامات يوفر أدوات تحويل الصيغ، ضغط الملفات، دمج مستندات PDF واستخراج النصوص من الصور (OCR).
-  > * **التقنيات:** Dart, Flutter, OCR Libraries.
-* **[Student Data Management System (Windows Edition)](https://github.com/malsalimi/student-system)**
-  > برنامج مكتبي متكامل لإدارة شؤون الطلاب للمدارس والمعاهد يغطي السجلات الشخصية، الشؤون الأكاديمية والمالية مع تصدير تقارير إحصائية.
-  > * **التقنيات:** C#, SQL Server.
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <a href="https://github.com/malsalimi/student-data-manager">
+        <img src="https://raw.githubusercontent.com/malsalimi/salimi-tech/main/assets/img/project/student-system.jpg" width="100%" alt="Student Manager" />
+      </a>
+      <br/>
+      <b>📚 <a href="https://github.com/malsalimi/student-data-manager">student-data-manager</a></b>
+      <p align="right">تطبيق مكتبي متكامل (إصدار الويندوز) لإدارة شؤون الطلاب أكاديمياً ومالياً وسلوكياً مع تصدير تقارير إحصائية فورية.</p>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <a href="https://github.com/malsalimi/file-processor">
+        <img src="https://raw.githubusercontent.com/malsalimi/salimi-tech/main/assets/img/project/file-processor.jpg" width="100%" alt="File Processor" />
+      </a>
+      <br/>
+      <b>🔄 <a href="https://github.com/malsalimi/file-processor">File Processing & Analysis</a></b>
+      <p align="right">تطبيق هاتف ذكي متعدد المهام لضغط، دمج، تحويل الملفات، واستخراج النصوص الفوري من الصور باستخدام تقنية OCR.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 🌐 ثالثاً: مواقع وتطبيقات الويب (Websites & Web Apps)
 
-* **[my-cv-site](https://github.com/malsalimi/salimi-tech)**
-  > الكود المصدري لموقعي الشخصي المطور (Salimi Tech) ثنائي اللغة (عربي / إنجليزي) والمهيأ بالكامل لمحركات البحث والأرشفة (SEO).
-  > * **التقنيات:** HTML5, CSS3, Vanilla JS, Bootstrap.
-* **[Tofan Al-Aqsa Platform](https://github.com/malsalimi/tofan-alaksa)**
-  > منصة ويب تفاعلية شاملة توفر أرشيفاً للوثائق والخرائط التاريخية والأدبية لنشر الوعي بالقضية الفلسطينية.
-  > * **التقنيات:** HTML5, CSS3, JS.
-* **[Salimi Store](https://github.com/malsalimi/salimi-store)**
-  > منصة ويب متطورة متخصصة كمتجر رقمي لعرض وتحميل التطبيقات والالتحاق بالدورات التدريبية التقنية.
-  > * **التقنيات:** HTML5, CSS3, JS, PHP.
-* **[Grand Sofra Restaurant Website](https://github.com/malsalimi/grand-sofra)**
-  > موقع ويب تفاعلي لمطعم "جراند سفرة" يعرض قائمة الطعام التفاعلية ونظام إدارة الطلبات عبر الإنترنت.
-  > * **التقنيات:** HTML5, CSS3, Vanilla JS, PHP.
-* **[Al-Tazaj Restaurant & Bakery Website](https://github.com/malsalimi/al-tazaj-restaurant)**
-  > موقع طلبات واستلام إلكتروني مخصص لـ "مطعم ومخبازة الطازج" لعرض الوجبات والعروض اليومية.
-  > * **التقنيات:** HTML5, CSS3, JS.
-* **[Eng. Alqasem Salimi Portfolio](https://github.com/malsalimi/eng-alqasem)**
-  > موقع ويب شخصي (Portfolio) للمهندس القاسم السالمي كواجهة تفاعلية لعرض إنجازات تحليل السوق والبيانات.
-  > * **التقنيات:** HTML5, CSS3, JS.
-* **[Dr. Alabbas Salimi Dental Clinic](https://github.com/malsalimi/dr-alabbas)**
-  > العيادة الرقمية للدكتور العباس السالمي لعرض الخدمات الطبية وحالات معالجة الأسنان وتقييمات المرضى.
-  > * **التقنيات:** HTML5, CSS3, JS.
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <a href="https://github.com/malsalimi/salimi-tech">
+        <img src="https://raw.githubusercontent.com/malsalimi/salimi-tech/main/assets/img/project/portfolio-site1.jpg" width="100%" alt="Personal Website" />
+      </a>
+      <br/>
+      <b>💻 <a href="https://github.com/malsalimi/salimi-tech">Salimi Tech (Personal Portfolio)</a></b>
+      <p align="right">الموقع الرسمي الشخصي وثنائي اللغة لاستعراض مهاراتي التقنية، ومشاريعي البرمجية، وشهاداتي المهنية.</p>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <a href="https://github.com/malsalimi/tofan-alaksa">
+        <img src="https://raw.githubusercontent.com/malsalimi/salimi-tech/main/assets/img/project/tofan-alaksa.jpg" width="100%" alt="Tofan Al-Aqsa" />
+      </a>
+      <br/>
+      <b>🇵🇸 <a href="https://github.com/malsalimi/tofan-alaksa">Tofan Al-Aqsa Platform</a></b>
+      <p align="right">منصة ويب تفاعلية شاملة تقدم وثائق وخرائط تاريخية وأرشيفاً متكاملاً للتوعية بالقضية الفلسطينية.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <a href="https://github.com/malsalimi/salimi-store">
+        <img src="https://raw.githubusercontent.com/malsalimi/salimi-store" width="100%" alt="Salimi Store" />
+      </a>
+      <br/>
+      <b>🛒 <a href="https://github.com/malsalimi/salimi-store">متجر Salimi Store الرقمي</a></b>
+      <p align="right">منصة ويب متطورة كمتجر إلكتروني متكامل لعرض وتحميل التطبيقات والاشتراك في الكورسات التعليمية البرمجية.</p>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <a href="https://github.com/malsalimi/grand-sofra">
+        <img src="https://raw.githubusercontent.com/malsalimi/salimi-tech/main/assets/img/project/grand-sofra.jpg" width="100%" alt="Grand Sofra" />
+      </a>
+      <br/>
+      <b>🍽️ <a href="https://github.com/malsalimi/grand-sofra">Grand Sofra Restaurant Site</a></b>
+      <p align="right">موقع ويب تفاعلي لمطعم "جراند سفرة" يعرض قائمة المأكولات اليمنية التقليدية ونظام طلبات وحجز ذكي.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <a href="https://github.com/malsalimi/al-tazaj-restaurant">
+        <img src="https://raw.githubusercontent.com/malsalimi/salimi-tech/main/assets/img/project/%D9%85%D8%B7%D8%B9%D9%85%20%D9%8...%D8%A7%D8%B7%D8%A7%D8%B2%D8%AC.png" width="100%" alt="Al-Tazaj" />
+      </a>
+      <br/>
+      <b>🔥 <a href="https://github.com/malsalimi/al-tazaj-restaurant">Al-Tazaj Restaurant Website</a></b>
+      <p align="right">موقع ويب للطلبات الفورية واستلام وتوصيل الوجبات وعرض الخصومات اليومية لمطعم ومخبازة الطازج.</p>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <a href="https://github.com/malsalimi/eng-alqasem">
+        <img src="https://raw.githubusercontent.com/malsalimi/salimi-tech/main/assets/img/project/eng-alqasem.jpg" width="100%" alt="Eng. Alqasem Portfolio" />
+      </a>
+      <br/>
+      <b>📊 <a href="https://github.com/malsalimi/eng-alqasem">Eng. Alqasem Salimi Site</a></b>
+      <p align="right">موقع ويب شخصي للمهندس القاسم السالمي كواجهة تفاعلية لعرض مسيرته وإنجازاته في تحليل البيانات والتسويق.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <a href="https://github.com/malsalimi/dr-alabbas">
+        <img src="https://raw.githubusercontent.com/malsalimi/salimi-tech/main/assets/img/project/dr-alabbas.jpg" width="100%" alt="Dr. Alabbas Clinic" />
+      </a>
+      <br/>
+      <b>🦷 <a href="https://github.com/malsalimi/dr-alabbas">Dr. Alabbas Salimi Clinic</a></b>
+      <p align="right">الموقع الرسمي والعيادة الرقمية للدكتور العباس السالمي بالرياض لعرض حالات العلاج وتقييمات المرضى.</p>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <!-- مساحة فارغة لموازنة التصميم الشبكي للمشروع الأخير -->
+    </td>
+  </tr>
+</table>
 
 ---
 
