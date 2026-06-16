@@ -118,7 +118,7 @@
   <tr>
     <td width="50%" valign="top" align="center">
       <a href="https://al-tazaj-restaurant.vercel.app/" target="_blank">
-        <img src="al-tazaj-restaurant.png" width="100%" alt="Al-Tazaj" />
+        <img src="%D9%85%D8%B7%D8%B9%D9%85%20%D9%88%D9%85%D8%AE%D8%A8%D8%A7%D8%B2%D8%A9%20%D8%B7%D8%A7%D8%B2%D8%AC%D8%A9.png" width="100%" alt="Al-Tazaj" />
       </a>
       <br/>
       <b>🔥 Al-Tazaj Restaurant Website</b>
@@ -162,12 +162,22 @@
   <tr>
     <td width="50%" valign="top" align="center">
       <a href="https://github.com/malsalimi/student-data-manager">
-        <img src="student-system.jpg" width="100%" alt="Student Manager" />
+        <img src="student-system.jpg" width="100%" alt="Student System Windows" />
       </a>
       <br/>
-      <b>📚 <a href="https://github.com/malsalimi/student-data-manager">student-data-manager</a></b>
-      <p align="right">تطبيق مكتبي متكامل (إصدار الويندوز) لإدارة شؤون الطلاب أكاديمياً ومالياً وسلوكياً مع تصدير تقارير إحصائية فورية.</p>
+      <b>📚 <a href="https://github.com/malsalimi/student-data-manager">student-data-manager (Mobile)</a></b>
+      <p align="right">تطبيق الجوال (إصدار Flutter) لإدارة شؤون الطلاب، تسجيل الدرجات، الحضور وتوفير قاعدة بيانات محلية مرنة.</p>
     </td>
+    <td width="50%" valign="top" align="center">
+      <a href="https://github.com/malsalimi/student-system">
+        <img src="student-system.jpg" width="100%" alt="Student Manager Mobile" />
+      </a>
+      <br/>
+      <b>🖥️ <a href="https://github.com/malsalimi/student-system">Student Data Manager (Windows)</a></b>
+      <p align="right">نظام مكتبي متكامل (إصدار الويندوز) لإدارة بيانات الطلاب المالية والأكاديمية مصمم للمدارس والمعاهد التعليمية.</p>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top" align="center">
       <a href="https://github.com/malsalimi/file-processor">
         <img src="file-processor.jpg" width="100%" alt="File Processor" />
@@ -175,6 +185,9 @@
       <br/>
       <b>🔄 <a href="https://github.com/malsalimi/file-processor">File Processing & Analysis</a></b>
       <p align="right">تطبيق هاتف ذكي متعدد المهام لضغط، دمج، تحويل الملفات، واستخراج النصوص الفوري من الصور باستخدام تقنية OCR.</p>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <!-- مساحة إضافية -->
     </td>
   </tr>
 </table>
