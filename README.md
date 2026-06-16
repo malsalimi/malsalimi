@@ -1,11 +1,6 @@
-إليك الكود المحدث والكامل بعد دمج الإضافات والتحسينات المقترحة لزيادة **الفخامة وقوة الهوية البصرية**.
-
-تم ترتيب العناصر بعناية، وإلغاء روابط مستودعات مواقع الويب، واستخدام المسارات المحلية للصور لتعمل فوراً، مع دمج إحصائياتك الحية والجوائز التقديرية بشكل متناسق:
-
-````markdown
 # <p align="center">مرحبًا بك في عالمي الرقمي! 👋</p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cairo&size=24&duration=3000&pause=1000&color=12D640&center=true&vCenter=true&width=700&lines=%D9%85%D8%AE%D8%AA%D8%B5%20%D8%A3%D9%85%D9%86%20%D8%B3%D9%8A%D8%A8%D8%B1%D8%A7%D9%86%D9%8A%20%D9%88%D8%A7%D8%AE%D8%AA%D8%A8%D8%A7%D8%B1%20%D8%A7%D9%84%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82;%D9%85%D8%B7%D9%88%D8%B1%20%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%D8%A7%D8%AA%20%D9%85%D9%88%D8%A8%D8%A7%D9%8A%D9%84%20%D8%A8%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85%20Flutter;%D9%85%D8%B5%D9%85%D9%85%20%D9%88%D9%85%D8%B7%D9%88%D8%B1%20%D9%85%D9%88%D8%A7%D9%82%D8%B9%20%D9%88%D9%8A%D8%A8%20%D8%A7%D8%AD%D8%AA%D8%B1%D8%A7%D9%81%D9%8A%D8%A9" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Cairo&size=24&duration=3000&pause=1000&color=12D640&center=true&vCenter=true&width=700&lines=%D9%85%D8%AE%D8%AA%D8%B5%20%D8%A3%D9%85%D9%86%20%D8%B3%D9%8A%D8%A8%D8%B1%D8%A7%D9%86%D9%8I%20%D9%88%D8%A7%D8%AE%D8%AA%D8%A8%D8%A7%D8%B1%20%D8%A7%D9%84%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%8ق;%D9%85%D8%B7%D9%88%D8%B1%20%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%D8%A7%D8%AA%20%D9%85%D9%88%D8%A8%D8%A7%D9%8A%D9%84%20%D8%A8%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85%20Flutter%3B%D9%85%D8%B5%D9%85%D9%85%20%D9%88%D9%85%D8%B7%D9%88%D8%B1%20%D9%85%D9%88%D8%A7%D9%82%D8%B9%20%D9%88%D9%8A%D8%A8%20%D8%A7%D8%AD%D8%AA%D8%B1%D8%A7%D9%81%D9%8A%D8%A9" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -18,6 +13,7 @@
   </a>
   <img src="https://img.shields.io/badge/Location-Yemen%20%7C%20Ibb-blue?style=flat-square&logo=google-maps&logoColor=white" alt="Location">
   <img src="https://img.shields.io/badge/Field-Cybersecurity%20%26%20Development-orange?style=flat-square" alt="Field">
+  <img src="https://img.shields.io/badge/Freelance-Available-12d640?style=flat-square" alt="Freelance Status">
 </p>
 
 ---
@@ -213,12 +209,12 @@
 ## 📈 إحصائيات GitHub الحية (GitHub Stats)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=malsalimi&show_icons=true&theme=dark&locale=en&hide_border=true&icon_color=12D640&text_color=ffffff&bg_color=151515" alt="Malsalimi's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=malsalimi&theme=dark&hide_border=true&ring=12D640&fire=12D640" alt="Malsalimi's GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=malsalimi&show_icons=true&theme=dark&locale=en&hide_border=true&title_color=12D640&icon_color=12D640&text_color=ffffff&bg_color=151515" alt="Malsalimi's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=malsalimi&theme=dark&hide_border=true&ring=12D640&fire=12D640&side_glow=true" alt="Malsalimi's GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malsalimi&layout=compact&theme=dark&hide_border=true&icon_color=12D640&text_color=ffffff&bg_color=151515" alt="Top Languages" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malsalimi&layout=compact&theme=dark&hide_border=true&title_color=12D640&icon_color=12D640&text_color=ffffff&bg_color=151515" alt="Top Languages" width="60%" />
 </p>
 
 <p align="center">
@@ -230,6 +226,9 @@
 ## 🤝 قنوات التواصل الاجتماعي (Let's Connect!)
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/mohammedsalimi/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
   <a href="https://wa.me/967736577725" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
@@ -249,4 +248,3 @@
 <p align="center">
   <i>إذا أعجبك أي مشروع في حسابي، لا تتردد في ترك ⭐ Star لدعم العمل! شكرًا لزيارتك 🤍</i>
 </p>
-````
