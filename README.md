@@ -17,7 +17,7 @@
 
 > أنا **محمد جمال الدين السالمي**، تقني ومختص أمن سيبراني ومطور برمجيات من **الجمهورية اليمنية**. شغوف بحماية الأنظمة والشبكات، وأعشق بناء أدوات وتطبيقات متكاملة تدمج بين الجانب البرمجي والأمني لتقديم تجربة رقمية آمنة وفعالة.
 
-* 🌐 **الموقع الشخصي للحقيبة البرمجية:** [Salimi Tech](https://salimi-tech.vercel.app/)
+* 🌐 **الموقع الشخصي للحقيبة البرمجية:** [Salimi Tech](https://salimi-tech.kesug.com/)
 * 💼 **الاهتمامات الحالية:** اختبار الاختراق الأخلاقي، إدارة وتأمين شبكات MikroTik، وتطوير تطبيقات الهواتف الذكية والويب.
 * ✉️ **البريد الإلكتروني للاتصال المباشر:** [salimitech2025@gmail.com](mailto:salimitech2025@gmail.com)
 
@@ -116,11 +116,13 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top" align="center">
-      <a href="https://github.com/malsalimi/salimi-tech">
+      <a href="https://salimi-tech.kesug.com" target="_blank">
         <img src="https://raw.githubusercontent.com/malsalimi/salimi-tech/main/assets/img/project/portfolio-site1.jpg" width="100%" alt="Personal Website" />
       </a>
       <br/>
-      <b>💻 <a href="https://github.com/malsalimi/salimi-tech">Salimi Tech (Personal Portfolio)</a></b>
+      <b>💻 <a href="https://github.com/malsalimi/salimi-tech">Salimi Tech Portfolio</a></b>
+      <br/>
+      🌐 <b><a href="https://salimi-tech.kesug.com" target="_blank">زيارة الموقع المباشر</a></b>
       <p align="right">الموقع الرسمي الشخصي وثنائي اللغة لاستعراض مهاراتي التقنية، ومشاريعي البرمجية، وشهاداتي المهنية.</p>
     </td>
     <td width="50%" valign="top" align="center">
@@ -129,52 +131,64 @@
       </a>
       <br/>
       <b>🇵🇸 <a href="https://github.com/malsalimi/tofan-alaksa">Tofan Al-Aqsa Platform</a></b>
+      <br/>
+      🚧 <i>قيد التطوير والترقية المستمرة</i>
       <p align="right">منصة ويب تفاعلية شاملة تقدم وثائق وخرائط تاريخية وأرشيفاً متكاملاً للتوعية بالقضية الفلسطينية.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top" align="center">
-      <a href="https://github.com/malsalimi/salimi-store">
-        <img src="https://raw.githubusercontent.com/malsalimi/salimi-store" width="100%" alt="Salimi Store" />
+      <a href="https://salimi-store.vercel.app/" target="_blank">
+        <img src="https://raw.githubusercontent.com/malsalimi/salimi-tech/main/assets/img/project/salimi-store.jpg" width="100%" alt="Salimi Store" />
       </a>
       <br/>
       <b>🛒 <a href="https://github.com/malsalimi/salimi-store">متجر Salimi Store الرقمي</a></b>
-      <p align="right">منصة ويب متطورة كمتجر إلكتروني متكامل لعرض وتحميل التطبيقات والاشتراك في الكورسات التعليمية البرمجية.</p>
+      <br/>
+      🌐 <b><a href="https://salimi-store.vercel.app/" target="_blank">زيارة الموقع المباشر</a></b>
+      <p align="right">منصة ويب متطورة كمتجر إلكتروني متكامل لعرض وتحميل التطبيقات والالتحاق بالدورات التدريبية التقنية.</p>
     </td>
     <td width="50%" valign="top" align="center">
-      <a href="https://github.com/malsalimi/grand-sofra">
+      <a href="https://grand-sofra-restaurant.vercel.app/" target="_blank">
         <img src="https://raw.githubusercontent.com/malsalimi/salimi-tech/main/assets/img/project/grand-sofra.jpg" width="100%" alt="Grand Sofra" />
       </a>
       <br/>
       <b>🍽️ <a href="https://github.com/malsalimi/grand-sofra">Grand Sofra Restaurant Site</a></b>
+      <br/>
+      🌐 <b><a href="https://grand-sofra-restaurant.vercel.app/" target="_blank">زيارة الموقع المباشر</a></b>
       <p align="right">موقع ويب تفاعلي لمطعم "جراند سفرة" يعرض قائمة المأكولات اليمنية التقليدية ونظام طلبات وحجز ذكي.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top" align="center">
-      <a href="https://github.com/malsalimi/al-tazaj-restaurant">
+      <a href="https://al-tazaj-restaurant.vercel.app/" target="_blank">
         <img src="https://raw.githubusercontent.com/malsalimi/salimi-tech/main/assets/img/project/%D9%85%D8%B7%D8%B9%D9%85%20%D9%8...%D8%A7%D8%B7%D8%A7%D8%B2%D8%AC.png" width="100%" alt="Al-Tazaj" />
       </a>
       <br/>
       <b>🔥 <a href="https://github.com/malsalimi/al-tazaj-restaurant">Al-Tazaj Restaurant Website</a></b>
+      <br/>
+      🌐 <b><a href="https://al-tazaj-restaurant.vercel.app/" target="_blank">زيارة الموقع المباشر</a></b>
       <p align="right">موقع ويب للطلبات الفورية واستلام وتوصيل الوجبات وعرض الخصومات اليومية لمطعم ومخبازة الطازج.</p>
     </td>
     <td width="50%" valign="top" align="center">
-      <a href="https://github.com/malsalimi/eng-alqasem">
+      <a href="https://eng-alqasem-alsalemi.vercel.app/" target="_blank">
         <img src="https://raw.githubusercontent.com/malsalimi/salimi-tech/main/assets/img/project/eng-alqasem.jpg" width="100%" alt="Eng. Alqasem Portfolio" />
       </a>
       <br/>
       <b>📊 <a href="https://github.com/malsalimi/eng-alqasem">Eng. Alqasem Salimi Site</a></b>
+      <br/>
+      🌐 <b><a href="https://eng-alqasem-alsalemi.vercel.app/" target="_blank">زيارة الموقع المباشر</a></b>
       <p align="right">موقع ويب شخصي للمهندس القاسم السالمي كواجهة تفاعلية لعرض مسيرته وإنجازاته في تحليل البيانات والتسويق.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top" align="center">
-      <a href="https://github.com/malsalimi/dr-alabbas">
+      <a href="https://dr-alabbas.vercel.app/" target="_blank">
         <img src="https://raw.githubusercontent.com/malsalimi/salimi-tech/main/assets/img/project/dr-alabbas.jpg" width="100%" alt="Dr. Alabbas Clinic" />
       </a>
       <br/>
       <b>🦷 <a href="https://github.com/malsalimi/dr-alabbas">Dr. Alabbas Salimi Clinic</a></b>
+      <br/>
+      🌐 <b><a href="https://dr-alabbas.vercel.app/" target="_blank">زيارة الموقع المباشر</a></b>
       <p align="right">الموقع الرسمي والعيادة الرقمية للدكتور العباس السالمي بالرياض لعرض حالات العلاج وتقييمات المرضى.</p>
     </td>
     <td width="50%" valign="top" align="center">
