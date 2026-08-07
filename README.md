@@ -79,7 +79,7 @@
   <tr>
     <td width="50%" valign="top" align="center">
       <a href="https://github.com/malsalimi/sd-01-oriana-hotel" target="_blank">
-        <img src="https://raw.githubusercontent.com/malsalimi/sd-01-oriana-hotel/main/public/screenshots/home-desktop.png" width="100%" alt="Oriana Luxury Hotel" />
+        <img src="screenshots/sd-01-oriana-hotel/home-desktop.png?v=2" width="100%" alt="Oriana Luxury Hotel" />
       </a>
       <br/>
       <b>🏨 <a href="https://github.com/malsalimi/sd-01-oriana-hotel" target="_blank">sd-01-oriana-hotel</a></b>
@@ -89,7 +89,7 @@
     </td>
     <td width="50%" valign="top" align="center">
       <a href="https://github.com/malsalimi/sd-02-meezan-legal" target="_blank">
-        <img src="https://raw.githubusercontent.com/malsalimi/sd-02-meezan-legal/main/public/screenshots/home-desktop.png" width="100%" alt="Meezan Legal" />
+        <img src="screenshots/sd-02-meezan-legal/home-desktop.png?v=2" width="100%" alt="Meezan Legal" />
       </a>
       <br/>
       <b>⚖️ <a href="https://github.com/malsalimi/sd-02-meezan-legal" target="_blank">sd-02-meezan-legal</a></b>
@@ -101,7 +101,7 @@
   <tr>
     <td width="50%" valign="top" align="center">
       <a href="https://github.com/malsalimi/sd-03-abaad-architecture" target="_blank">
-        <img src="https://raw.githubusercontent.com/malsalimi/sd-03-abaad-architecture/main/public/screenshots/home-desktop.png" width="100%" alt="Abaad Architecture" />
+        <img src="screenshots/sd-03-abaad-architecture/home-desktop.png?v=2" width="100%" alt="Abaad Architecture" />
       </a>
       <br/>
       <b>🏛️ <a href="https://github.com/malsalimi/sd-03-abaad-architecture" target="_blank">sd-03-abaad-architecture</a></b>
@@ -111,7 +111,7 @@
     </td>
     <td width="50%" valign="top" align="center">
       <a href="https://github.com/malsalimi/sd-04-rouqi-perfumes" target="_blank">
-        <img src="https://raw.githubusercontent.com/malsalimi/sd-04-rouqi-perfumes/main/public/screenshots/home-desktop.png" width="100%" alt="Rouqi Perfumes" />
+        <img src="screenshots/sd-04-rouqi-perfumes/home-desktop.png?v=2" width="100%" alt="Rouqi Perfumes" />
       </a>
       <br/>
       <b>👑 <a href="https://github.com/malsalimi/sd-04-rouqi-perfumes" target="_blank">sd-04-rouqi-perfumes</a></b>
@@ -123,7 +123,7 @@
   <tr>
     <td width="50%" valign="top" align="center">
       <a href="https://github.com/malsalimi/sd-05-nawa-market" target="_blank">
-        <img src="https://raw.githubusercontent.com/malsalimi/sd-05-nawa-market/main/public/screenshots/home-desktop.png" width="100%" alt="Nawa Digital Market" />
+        <img src="screenshots/sd-05-nawa-market/home-desktop.png?v=2" width="100%" alt="Nawa Digital Market" />
       </a>
       <br/>
       <b>🛒 <a href="https://github.com/malsalimi/sd-05-nawa-market" target="_blank">sd-05-nawa-market</a></b>
@@ -133,7 +133,7 @@
     </td>
     <td width="50%" valign="top" align="center">
       <a href="https://github.com/malsalimi/sd-06-almaaref-schools" target="_blank">
-        <img src="https://raw.githubusercontent.com/malsalimi/sd-06-almaaref-schools/main/public/screenshots/home-desktop.png" width="100%" alt="Almaaref Model Schools" />
+        <img src="screenshots/sd-06-almaaref-schools/home-desktop.png?v=2" width="100%" alt="Almaaref Model Schools" />
       </a>
       <br/>
       <b>🎓 <a href="https://github.com/malsalimi/sd-06-almaaref-schools" target="_blank">sd-06-almaaref-schools</a></b>
@@ -145,7 +145,7 @@
   <tr>
     <td width="50%" valign="top" align="center">
       <a href="https://github.com/malsalimi/sd-07-careplus-medical-center" target="_blank">
-        <img src="https://raw.githubusercontent.com/malsalimi/sd-07-careplus-medical-center/main/public/screenshots/home-desktop.png" width="100%" alt="CarePlus Medical Center" />
+        <img src="screenshots/sd-07-careplus-medical-center/home-desktop.png?v=2" width="100%" alt="CarePlus Medical Center" />
       </a>
       <br/>
       <b>🏥 <a href="https://github.com/malsalimi/sd-07-careplus-medical-center" target="_blank">sd-07-careplus-medical-center</a></b>
@@ -155,7 +155,7 @@
     </td>
     <td width="50%" valign="top" align="center">
       <a href="https://github.com/malsalimi/sd-08-impact-digital-agency" target="_blank">
-        <img src="https://raw.githubusercontent.com/malsalimi/sd-08-impact-digital-agency/main/public/screenshots/home-desktop.png" width="100%" alt="Impact Digital Agency" />
+        <img src="screenshots/sd-08-impact-digital-agency/home-desktop.png?v=2" width="100%" alt="Impact Digital Agency" />
       </a>
       <br/>
       <b>🚀 <a href="https://github.com/malsalimi/sd-08-impact-digital-agency" target="_blank">sd-08-impact-digital-agency</a></b>
