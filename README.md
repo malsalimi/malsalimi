@@ -73,6 +73,103 @@
 
 ### 🌐 أولاً: مواقع وتطبيقات الويب (Websites & Web Apps)
 
+#### 💎 سلسلة تطبيقات Next.js الحديثة (Salimi Digital - SD Collection)
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <a href="https://github.com/malsalimi/sd-01-oriana-hotel" target="_blank">
+        <img src="https://raw.githubusercontent.com/malsalimi/sd-01-oriana-hotel/main/public/screenshots/home-desktop.png" width="100%" alt="Oriana Luxury Hotel" />
+      </a>
+      <br/>
+      <b>🏨 <a href="https://github.com/malsalimi/sd-01-oriana-hotel" target="_blank">sd-01-oriana-hotel</a></b>
+      <br/>
+      <b>فندق ومنتجع أوريانا الفاخر (Oriana Hotel)</b>
+      <p align="right">تطبيق ويب فاخر 5 نجوم لحجز الأجنحة الملكية والسبا وخدمات الكونسيرج الملكية بتجربة ثنائية اللغة متكاملة (Next.js 15, TS, Tailwind CSS 4).</p>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <a href="https://github.com/malsalimi/sd-02-meezan-legal" target="_blank">
+        <img src="https://raw.githubusercontent.com/malsalimi/sd-02-meezan-legal/main/public/screenshots/home-desktop.png" width="100%" alt="Meezan Legal" />
+      </a>
+      <br/>
+      <b>⚖️ <a href="https://github.com/malsalimi/sd-02-meezan-legal" target="_blank">sd-02-meezan-legal</a></b>
+      <br/>
+      <b>ميزان للاستشارات القانونية والمحاماة</b>
+      <p align="right">منصة خدمات قانونية احترافية لاستشارات الشركات، ومتابعة القضايا، وحجز الجلسات وحلول التحكيم القانوني.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <a href="https://github.com/malsalimi/sd-03-abaad-architecture" target="_blank">
+        <img src="https://raw.githubusercontent.com/malsalimi/sd-03-abaad-architecture/main/public/screenshots/home-desktop.png" width="100%" alt="Abaad Architecture" />
+      </a>
+      <br/>
+      <b>🏛️ <a href="https://github.com/malsalimi/sd-03-abaad-architecture" target="_blank">sd-03-abaad-architecture</a></b>
+      <br/>
+      <b>أبعاد للتصميم المعماري والديكور الداخلي</b>
+      <p align="right">منصة استعراض أعمال الهندسة المعمارية والتصميم الداخلي المودرن ومشاريع BIM بنظام تصفية تفاعلي فائق الجمال.</p>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <a href="https://github.com/malsalimi/sd-04-rouqi-perfumes" target="_blank">
+        <img src="https://raw.githubusercontent.com/malsalimi/sd-04-rouqi-perfumes/main/public/screenshots/home-desktop.png" width="100%" alt="Rouqi Perfumes" />
+      </a>
+      <br/>
+      <b>👑 <a href="https://github.com/malsalimi/sd-04-rouqi-perfumes" target="_blank">sd-04-rouqi-perfumes</a></b>
+      <br/>
+      <b>متجر عطور الروقي الفاخرة</b>
+      <p align="right">متجر إلكتروني فاخر للعطور الشرقية والغربية بمكتشف العطور التفاعلي وتفكيك النوتات العطرية وسلة تسوق سريعة.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <a href="https://github.com/malsalimi/sd-05-nawa-market" target="_blank">
+        <img src="https://raw.githubusercontent.com/malsalimi/sd-05-nawa-market/main/public/screenshots/home-desktop.png" width="100%" alt="Nawa Digital Market" />
+      </a>
+      <br/>
+      <b>🛒 <a href="https://github.com/malsalimi/sd-05-nawa-market" target="_blank">sd-05-nawa-market</a></b>
+      <br/>
+      <b>سوق نوي الرقمي للمنتجات والسلع</b>
+      <p align="right">منصة تجارة إلكترونية عصرية تحتوي على تصفية المنتجات، والتخفيضات السريعة، وسلة التسوق ولوحة تحكم تفاعلية.</p>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <a href="https://github.com/malsalimi/sd-06-almaaref-schools" target="_blank">
+        <img src="https://raw.githubusercontent.com/malsalimi/sd-06-almaaref-schools/main/public/screenshots/home-desktop.png" width="100%" alt="Almaaref Model Schools" />
+      </a>
+      <br/>
+      <b>🎓 <a href="https://github.com/malsalimi/sd-06-almaaref-schools" target="_blank">sd-06-almaaref-schools</a></b>
+      <br/>
+      <b>مدارس المعارف الأهلية النموذجية</b>
+      <p align="right">منصة تعليمية للمدارس والمجمعات الأكاديمية تستعرض المناهج، والتسجيل الإلكتروني، وبوابة أولياء الأمور والطلاب.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <a href="https://github.com/malsalimi/sd-07-careplus-medical-center" target="_blank">
+        <img src="https://raw.githubusercontent.com/malsalimi/sd-07-careplus-medical-center/main/public/screenshots/home-desktop.png" width="100%" alt="CarePlus Medical Center" />
+      </a>
+      <br/>
+      <b>🏥 <a href="https://github.com/malsalimi/sd-07-careplus-medical-center" target="_blank">sd-07-careplus-medical-center</a></b>
+      <br/>
+      <b>مركز كير بلس الطبي التخصصي</b>
+      <p align="right">بوابة طبية متطورة توفر حجز المواعيد مع الأطباء، ودليل العيادات التخصصية، وأرقام الطوارئ والتثقيف الصحي.</p>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <a href="https://github.com/malsalimi/sd-08-impact-digital-agency" target="_blank">
+        <img src="https://raw.githubusercontent.com/malsalimi/sd-08-impact-digital-agency/main/public/screenshots/home-desktop.png" width="100%" alt="Impact Digital Agency" />
+      </a>
+      <br/>
+      <b>🚀 <a href="https://github.com/malsalimi/sd-08-impact-digital-agency" target="_blank">sd-08-impact-digital-agency</a></b>
+      <br/>
+      <b>وكالة إمباكت للتسويق الرقمي والحلول البرمجية</b>
+      <p align="right">معرض أعمال وكالة تسويق وحلول برمجية حديثة يستعرض خدمات البرمجة، واستراتيجيات SEO وتجارب UI/UX المستقبلية.</p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+#### 🌐 مشاريع وتطبيقات الويب الإضافية
+
 <table width="100%">
   <tr>
     <td width="50%" valign="top" align="center">
