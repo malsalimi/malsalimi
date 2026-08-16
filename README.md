@@ -49,6 +49,7 @@
     <td align="center" width="33%">
       <h3>🚀 الأطر والمنصات</h3>
       <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /><br/>
       <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" /><br/>
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /><br/>
@@ -64,6 +65,29 @@
       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <h3>🛠️ الأدوات وبيئات التطوير</h3>
+      <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /><br/>
+      <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white" />
+    </td>
+    <td align="center" width="33%">
+      <h3>🕵🏻‍♂️ فحص الشبكات والأمن</h3>
+      <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Nmap-113560?style=for-the-badge" /><br/>
+      <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge" /><br/>
+      <img src="https://img.shields.io/badge/Telegram_Bots-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+    </td>
+    <td align="center" width="33%">
+      <h3>🎬 المحتوى والذكاء الاصطناعي</h3>
+      <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Groq_API-F3722C?style=for-the-badge" />
     </td>
   </tr>
 </table>
