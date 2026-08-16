@@ -38,56 +38,113 @@
 <table align="center" width="100%">
   <tr>
     <td align="center" width="33%">
-      <h3>💻 اللغات وقواعد البيانات</h3>
+      <h3>💻 لغات البرمجة</h3>
       <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /><br/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
     </td>
+
     <td align="center" width="33%">
-      <h3>🚀 الأطر والمنصات</h3>
+      <h3>🌐 تطوير الويب والتطبيقات</h3>
       <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /><br/>
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" /><br/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /><br/>
-      <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" />
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
     </td>
+
     <td align="center" width="33%">
-      <h3>🛡️ الأنظمة والأمن السيبراني</h3>
+      <h3>🛡️ الأمن السيبراني والشبكات</h3>
       <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/MikroTik-1E1E1E?style=for-the-badge&logo=mikrotik&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /><br/>
       <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+      <img src="https://img.shields.io/badge/MikroTik-1E1E1E?style=for-the-badge&logo=mikrotik&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Nmap-113560?style=for-the-badge" /><br/>
+      <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge" /><br/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
     </td>
   </tr>
+
   <tr>
     <td align="center" width="33%">
       <h3>🛠️ الأدوات وبيئات التطوير</h3>
-      <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /><br/>
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Antigravity_IDE-000000?style=for-the-badge" /><br/>
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Chrome_DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    </td>
+
+    <td align="center" width="33%">
+      <h3>☁️ الاستضافة والنشر</h3>
       <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white" />
+      <img src="https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/InfinityFree-2F80ED?style=for-the-badge" /><br/>
+      <img src="https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Android_SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Samsung_Galaxy_Store-1428A0?style=for-the-badge&logo=samsung&logoColor=white" />
     </td>
+
     <td align="center" width="33%">
-      <h3>🕵🏻‍♂️ فحص الشبكات والأمن</h3>
-      <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Nmap-113560?style=for-the-badge" /><br/>
-      <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge" /><br/>
-      <img src="https://img.shields.io/badge/Telegram_Bots-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-    </td>
-    <td align="center" width="33%">
-      <h3>🎬 المحتوى والذكاء الاصطناعي</h3>
-      <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white" /><br/>
+      <h3>🤖 الذكاء الاصطناعي والأتمتة</h3>
+      <img src="https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge&logo=openai&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Groq_API-F3722C?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Groq_API-F3722C?style=for-the-badge" /><br/>
+      <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge" /><br/>
+      <img src="https://img.shields.io/badge/Higgsfield_AI-000000?style=for-the-badge" /><br/>
+      <img src="https://img.shields.io/badge/Prompt_Engineering-6366F1?style=for-the-badge" />
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="33%">
+      <h3>📱 تطوير Android وFlutter</h3>
+      <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Riverpod-00A67E?style=for-the-badge" /><br/>
+      <img src="https://img.shields.io/badge/WebView-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/GoRouter-0175C2?style=for-the-badge&logo=flutter&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+    </td>
+
+    <td align="center" width="33%">
+      <h3>🎬 صناعة المحتوى الرقمي</h3>
+      <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/VN_Video_Editor-000000?style=for-the-badge" /><br/>
+      <img src="https://img.shields.io/badge/Suno-000000?style=for-the-badge" /><br/>
+      <img src="https://img.shields.io/badge/Pexels-05A081?style=for-the-badge&logo=pexels&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Pixabay-000000?style=for-the-badge" /><br/>
+      <img src="https://img.shields.io/badge/Remove.bg-FFFFFF?style=for-the-badge&logoColor=000000" /><br/>
+      <img src="https://img.shields.io/badge/AI_Video_Generation-7C3AED?style=for-the-badge" />
+    </td>
+
+    <td align="center" width="33%">
+      <h3>🔐 التطوير الآمن والهندسة</h3>
+      <img src="https://img.shields.io/badge/Application_Security-DC2626?style=for-the-badge" /><br/>
+      <img src="https://img.shields.io/badge/Network_Security-1D4ED8?style=for-the-badge" /><br/>
+      <img src="https://img.shields.io/badge/Encryption-7C3AED?style=for-the-badge" /><br/>
+      <img src="https://img.shields.io/badge/RSA-374151?style=for-the-badge" /><br/>
+      <img src="https://img.shields.io/badge/Hybrid_Encryption-4F46E5?style=for-the-badge" /><br/>
+      <img src="https://img.shields.io/badge/Security_Auditing-059669?style=for-the-badge" /><br/>
+      <img src="https://img.shields.io/badge/Security_Hardening-92400E?style=for-the-badge" /><br/>
+      <img src="https://img.shields.io/badge/Technical_Documentation-475569?style=for-the-badge" />
     </td>
   </tr>
 </table>
